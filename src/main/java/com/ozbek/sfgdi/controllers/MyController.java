@@ -1,6 +1,6 @@
 package com.ozbek.sfgdi.controllers;
 
-import com.ozbek.sfgdi.services.GreetingService;
+import com.ozbek.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

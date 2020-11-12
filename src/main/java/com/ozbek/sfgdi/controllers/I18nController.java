@@ -1,10 +1,8 @@
 package com.ozbek.sfgdi.controllers;
 
-import com.ozbek.sfgdi.services.GreetingService;
+import com.ozbek.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
-
-import java.awt.*;
 
 @Controller
 public class I18nController {

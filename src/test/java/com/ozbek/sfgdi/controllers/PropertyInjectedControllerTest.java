@@ -1,6 +1,6 @@
 package com.ozbek.sfgdi.controllers;
 
-import com.ozbek.sfgdi.services.PropertyInjectedGreetingService;
+import com.ozbek.services.PropertyInjectedGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

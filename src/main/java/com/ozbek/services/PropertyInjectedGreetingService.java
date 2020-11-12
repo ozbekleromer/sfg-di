@@ -1,6 +1,5 @@
-package com.ozbek.sfgdi.services;
+package com.ozbek.services;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service

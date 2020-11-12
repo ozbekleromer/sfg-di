@@ -1,4 +1,4 @@
-package com.ozbek.sfgdi.services;
+package com.ozbek.services;
 
 public interface PetService {
 

@@ -1,4 +1,4 @@
-package com.ozbek.sfgdi.services;
+package com.ozbek.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
 package com.ozbek.sfgdi.controllers;
 
-import com.ozbek.sfgdi.services.PetService;
+import com.ozbek.services.PetService;
 import org.springframework.stereotype.Controller;
 
 @Controller

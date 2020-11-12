@@ -1,4 +1,4 @@
-package com.ozbek.sfgdi.services;
+package com.ozbek.services;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.*;

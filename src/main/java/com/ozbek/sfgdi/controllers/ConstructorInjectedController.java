@@ -1,7 +1,6 @@
 package com.ozbek.sfgdi.controllers;
 
-import com.ozbek.sfgdi.services.GreetingService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.ozbek.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
